@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NinetyOne_Assessment/bin/Debug/net6.0
+/NinetyOne_Assessment/obj
